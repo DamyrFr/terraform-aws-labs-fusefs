@@ -2,7 +2,7 @@
 
 This project is a simple Terraform lab for provide a EC2 and S3 bucket, with instance profile to test the FuseFS.
 
-This is a practical complement for this article (in french) : [damyr.fr]()
+This is a practical complement for this article (in french) : [damyr.fr](https://www.damyr.fr/posts/fuse-fs/)
 
 ## Version
 
